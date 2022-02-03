@@ -54,8 +54,6 @@ message.reply({embeds: [embed]})
 - fuschia
 - red2
 - black
-- unnamed_role_color_1
-- unnamed_role_color_2
 
 ## ToDo
 
