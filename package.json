@@ -1,11 +1,8 @@
 {
   "name": "colors-discord",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "colors npm library to readd Strings Color to Discord.js@v14",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MayiVT/colors-discord.git"
@@ -16,6 +13,9 @@
     "v14"
   ],
   "author": "iMayiVT",
+  "contributors": [
+    "ThePotatoCamera"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MayiVT/colors-discord/issues"
