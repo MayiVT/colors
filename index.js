@@ -51,3 +51,4 @@ module.exports = colors;
 //By iMayiVT
 //Discord: 🌸₊˚๑ iMayiVT ✧⁺ 🍡#4001
 //Do not remove credits if forked.
+//Best Contribution: EmmaG2
