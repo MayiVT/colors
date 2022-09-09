@@ -54,10 +54,10 @@ message.reply({embeds: [embed]})
 - fuschia
 - red2
 - black
+- random
 
 ## ToDo
 
-- Random Color
 - HeX Integration
 - Add More Colors
 - Docs Guide
